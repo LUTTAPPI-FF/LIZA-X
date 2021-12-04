@@ -1,3 +1,22 @@
+Skip to content
+LUTTAPPI-FF
+/
+LIZA-X
+Public
+forked from LUTTAPPI /Liza-x
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+LIZA-X/language/ML.json
+@LUTTAPPI 
+LUTTAPPI  Add files via upload
+ 10 contributors
+518 lines (518 sloc)  62.8 KB
 { 
     "__ASENAJSON__": true,
     "LANGUAGE": "Mlayalam",
@@ -8,8 +27,8 @@
             "COMMAND": "കമാൻഡ്",
             "DESC": "വിവരണം",
             "EXAMPLE": "ഉദാഹരണം",
-            "NOT_FOUND": "*എനിക്ക് ഇതുപോലുള്ള ഒരു കമാൻഡ് കണ്ടെത്താൻ കഴിഞ്ഞില്ല*",
-            "WARN": "മുന്നറിയിപ്പ്"
+            "NOT_FOUND": "*നേരെ അടിയട മണ്ടാ by LUTTAPPI*",
+            "WARN": "മുന്നറിയിപ്പ് by LUTTAPPI "
         },
         "_plugin": {
             "INSTALL_DESC": "പ്ലഗിൻ ഇൻസ്റ്റാൾ ചെയ്യുക.",
@@ -70,7 +89,7 @@
             "GIVE_ME_CODE": "*പ്രോഗ്രാം തിരിക !*"
         },
         "nekobin": {
-            "NEKO_DESC": "മറുപടി ആയി നൽകുന്ന മെസ്സേജുകൾ nekobin.com ഇലേക്ക് ചേർക്കും",
+            "NEKO_DESC": "മറുപടി ആയി നൽകുന്ന മെസ്സേജുകൾ nekobin.com ഇലേക്ക് ചേർക്കും കേട്ടby LUTTAPPI ",
             "NEED_REPLY": "മറ്റേതെങ്കിലും മെസ്സേജിന് മറുപടിയായി അയക്കുക!",
             "MUST_TEXT": "മറുപടി അയക്കുന്നത് ഒരു വാക്കിനയിരിക്കണം, മറ്റൊന്നും സ്വീകരിക്കുന്നതല്ല"
         },
@@ -516,3 +535,16 @@
         }
     }
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
